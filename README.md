@@ -1,2 +1,24 @@
 # restaurante-vue-rest
-Projeto de sistema para pedidos de restaurante utilizando REST, apresentado em trabalho da disciplina Programação Paralela e Distribuída 
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

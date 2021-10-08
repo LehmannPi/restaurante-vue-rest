@@ -1,0 +1,12 @@
+{
+	"pedidos": [
+		{
+			"id": 1,
+			"ordem": 0,
+			"mesa": 10,
+			"desc": "Parmegiana de berinjela",
+			"situação": 1,
+			"data": "2020-12-10T13:49:51.141Z"
+		}
+	]
+}
