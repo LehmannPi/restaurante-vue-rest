@@ -1,16 +1,17 @@
 <template>
   <c-theme-provider>
-    <!-- <c-reset /> -->
-		<hello-world />
-    <!--Your application goes here -->
+    <c-reset />
+		<router-view />
   </c-theme-provider>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
-
+// CBox,  CIcon, CCollapse,
 export default {
-  components: { HelloWorld },
-  name: "App",
+	name: "App",
 };
 </script>
+
+<style>
+
+</style>

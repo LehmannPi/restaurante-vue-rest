@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap');
+
+* {
+	font-family: 'Poppins', sans-serif;
+}
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+.btn{
+	text-transform: uppercase;
+	letter-spacing: .25rem;
+	font-weight: 500;
+}
+.titulo{
+	margin-bottom: 30px;
+	font-size: 40px;
+	letter-spacing: 1rem;
+	text-transform: uppercase;
+	color: #4608AA;
+	font-family: "Space Mono", Courier, monospace;
+	font-weight: 700;
+}
+.subtitulo{
+	font-family: "Space Mono", Courier, monospace;
+	margin-bottom: 30px;
+	font-size: 30px;
+	letter-spacing:.25em;
+	font-weight: 400;
+	color: #F2E5FF;
+}
+
+/* Mesas */
+.mesas__titulo {
+  font-size: 30px;
+  letter-spacing: 0.75rem;
+  text-transform: uppercase;
+  box-sizing: content-box;
+  font-weight: 600;
+}
+.desc {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Cozinha */
+/* Ordem vermelho > laranja > verde */
+.bold {
+  font-weight: 600;
+  word-spacing: 0.5em;
+}
+.cozinha__titulo {
+  /* color yellow.400 */
+  font-size: 30px;
+  letter-spacing: 0.75rem;
+  text-transform: uppercase;
+  box-sizing: content-box;
+  /* font-family: "Space Mono", Courier, monospace; */
+  font-weight: 600;
+}
+
+
+
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Space Mono', monospace; */
